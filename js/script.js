@@ -64,6 +64,8 @@ document.addEventListener("DOMContentLoaded", () => {
       "images/training0.jpg",
       "images/training11.jpg",
       "images/training12.jpg",
+      "images/training13.jpg",
+      "images/training14.jpg",
     ],
     charity: [
       "images/charity1.jpg",
@@ -71,6 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "images/charity3.jpg",
       "images/charity4.jpg",
       "images/charity5.jpg",
+      "images/charity6.jpg",
     ],
   };
 
